@@ -70,3 +70,8 @@ loggers:
     level: debug
     appenders:
       - stdout_ref
+
+  boot:
+    level: debug
+    appenders:
+      - stdout_ref
